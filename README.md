@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evheniu
+- 👋 Hi, I’m @Yevhen
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning
